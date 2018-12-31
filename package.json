@@ -9,7 +9,7 @@
     "pink",
     "nopal"
   ],
-  "repository": "https://github.com/atom/nopal-twelve-syntax",
+  "repository": "https://github.com/Fhoughton/nopal-twelve-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
